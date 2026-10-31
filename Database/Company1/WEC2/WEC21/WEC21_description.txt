@@ -1,0 +1,8 @@
+WECClassChild
+==
+The plate has been decided to be rectangle in any case.
+==
+p3:rectangle
+==
+p4: plate width (m)
+p5: plate length(m)

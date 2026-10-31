@@ -1,0 +1,10 @@
+classAttached = FixOrganisation in CoreFunctions
+descriptionFilePath = Database/Company2/Company2_1_description.txt
+comments = """
+the Company is blabla
+"""
+type = Weptos
+name = Company21
+name_PreviousNames = Australia
+IDorganisation: Company21201905060227
+Country_time = Company

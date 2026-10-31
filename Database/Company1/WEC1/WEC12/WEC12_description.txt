@@ -1,0 +1,7 @@
+WECChild
+==
+The plate has been decided to be circular in any case.
+==
+p3:circular.
+==
+p4: plate diameter(m).

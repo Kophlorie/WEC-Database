@@ -1,0 +1,9 @@
+OrganisationObject
+==
+This is the organisation object that is related to no organisation so all param are 
+with default values.
+==
+IDOrganisation: NonCompanyRelated11201905051136
+Type = Absent
+Name_PreviousNames: Absent
+CountryTime = Australia

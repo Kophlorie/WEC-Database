@@ -1,0 +1,19 @@
+# Python build output
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+# Environment and machine-local files
+.venv/
+venv/
+env/
+.env
+.env.*
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+profile.ps1
+# Generated Python source is the public catalogue data source. Track it in Git.
+# mainRun.py can regenerate these files; review the Git diff before committing.

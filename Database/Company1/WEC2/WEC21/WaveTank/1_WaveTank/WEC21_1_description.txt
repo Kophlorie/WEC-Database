@@ -1,0 +1,10 @@
+wecchildObject
+==
+This is the WEC used for the first tests.
+==
+WECID=Wavepiston111201904101132
+p1:1
+p2:10
+p3:rectangle
+p4:1
+p5:1

@@ -1,0 +1,9 @@
+WECChildObject
+==
+the cylinder I will say that it has:
+a draft =8m
+and a diameter of 7m
+==
+WECID=cylinder01201905030610
+p1: 8
+p2: 95

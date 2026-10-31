@@ -1,0 +1,11 @@
+classAttached = FixOrganisation in CoreFunctions
+descriptionFilePath = Database/NonCompanyRelated/NonCompanyRelated_1_description.txt
+comments = """
+This is the organisation object that is related to no organisation so all param are 
+with default values.
+"""
+type = Absent
+name = NonCompanyRelated11
+name_PreviousNames = Australia
+IDorganisation: NonCompanyRelated11201905051136
+Country_time = Absent

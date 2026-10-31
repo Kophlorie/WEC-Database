@@ -1,0 +1,7 @@
+WECChildObject
+==
+This is the WEC used for the another tests.
+==
+WECID=Weptos1201905031028
+p1 = 25
+p2 = 86

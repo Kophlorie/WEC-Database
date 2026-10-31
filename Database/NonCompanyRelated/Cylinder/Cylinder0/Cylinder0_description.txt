@@ -1,0 +1,7 @@
+WEChild
+==
+Base class
+==
+None
+==
+None

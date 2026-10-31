@@ -1,0 +1,10 @@
+classAttached = FixOrganisation in CoreFunctions
+descriptionFilePath = Database/Company1/Company1_1_description.txt
+comments = """
+the Company is blabla
+"""
+type = Company1, Wavepiston
+name = Company14
+name_PreviousNames = Australia
+IDorganisation: Company14201905051118
+Country_time = Company

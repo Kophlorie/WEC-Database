@@ -1,0 +1,7 @@
+WECChildObject
+==
+test number 22222 
+==
+WECID=cylinder01201905030611
+p1: 8
+p2: 4

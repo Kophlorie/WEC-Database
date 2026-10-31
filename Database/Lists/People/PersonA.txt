@@ -1,0 +1,6 @@
+firstName: Sample
+familyName: PersonA
+workingAddress: Place A
+email: oemail@email
+telephone: +33000000000
+country_time: Country A

@@ -1,0 +1,8 @@
+OrganisationObject
+==
+super cool company
+==
+ID: Weptos1201905031023
+Type = Company
+Name_Previousnames = Weptos
+Country_time = Australia

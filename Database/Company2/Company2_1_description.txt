@@ -1,0 +1,8 @@
+CompanyObject
+==
+the Company is blabla
+==
+IDCompany: Company21201905060227
+Type: Company
+Name_PreviousNames: Weptos
+Country_Time = Australia

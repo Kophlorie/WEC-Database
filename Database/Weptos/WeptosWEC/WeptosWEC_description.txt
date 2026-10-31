@@ -1,0 +1,5 @@
+WEC
+==
+weptos mother class
+==
+p1: arm_length (m)

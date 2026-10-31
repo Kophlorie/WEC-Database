@@ -1,0 +1,5 @@
+WECChildObject
+==
+Il etait un fois un test sans parametres...
+==
+WECID = WEC421201905030258

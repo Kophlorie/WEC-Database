@@ -1,0 +1,8 @@
+WECChild
+==
+we are implementing something a new param, since the above class has no parameters,
+we cannot fix anything but we can add a new parameter (so the first of the class, well child class)...
+==
+none 
+==
+none

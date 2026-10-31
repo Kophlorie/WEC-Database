@@ -1,0 +1,7 @@
+WECChildObject
+==
+This is the WEC used for the first tests.
+==
+WECID=Cylinder1120190502
+p1:1
+p2:8

@@ -1,0 +1,6 @@
+WECClass
+==
+this is the class related to all the cylinder tests that are not related to a WEC or a company.
+==
+p1 : diameter (m)
+p2 : draft (m)

@@ -1,0 +1,7 @@
+WECClass
+==
+The WEC is made of a wire and some plates moving back and forth
+==
+p1: nb of plates (--)
+p2: overall length of the wire (m)
+p3: plate shape (--)

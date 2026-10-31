@@ -1,0 +1,8 @@
+OrganisationObject
+==
+the Company is blabla
+==
+IDOrganisation: Company14201905051118
+Type = Company
+Name_PreviousNames: Company1, Wavepiston
+CountryTime = Australia

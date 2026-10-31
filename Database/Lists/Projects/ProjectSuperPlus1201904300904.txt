@@ -1,0 +1,10 @@
+comments: This project aims to define new WEC classes from the power absorption point of view.
+start: 2026/10/30
+endExpected: 2030/12/25
+endActual: --
+budgetExpected: 123456789 euros
+budgetActual: --
+people: Person A, Person B
+organisations: Wavepiston, Place A, Place B
+wecNamesTested: WavepistonWavepiston1*, WeptosWeptos*, WaveDragonWaveDragon*, WaveStarWaveStar*, KNSWINGKNSWING*
+country_time: Country A
