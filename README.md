@@ -115,7 +115,7 @@ See [CONTRIBUTING](docs/CONTRIBUTING.md) for the authorship/contribution policy 
 
 **No project-wide open-source licence has been selected.** The historical LICENSE shared as `docs/ORIGINAL_PLOTLY_LICENSE.md` containing *Copyright (c) 2018 plotly* is a third-party MIT notice; it is **not** a licence granted by Ophélie Choupin or Francesco Ferri for this entire project.
 
-The original interface's redistribution permission and any rights or restrictions affecting historical WEC descriptions must be confirmed before making the repository public. The absence of a project-wide licence does not itself establish permission to publish someone else's code or research data. Installed dependencies carry their own respective licences.
+Permission to publicly share the original db_interface/ was obtained from its author, Francesco Ferri. The historical WEC examples are provided for demonstration purposes. No project-wide open-source licence has been selected. The absence of a project-wide licence does not itself establish permission to publish someone else's code or research data. Installed dependencies carry their own respective licences.
 
 This software is intended for **local demonstration**. It is not supported for public web hosting. Before a public GitHub release, inspect all source, samples, documentation and Git history for credentials, personal information, machine-specific paths and non-public research information.
 
